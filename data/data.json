@@ -1,0 +1,35 @@
+{
+    "carsort": "승용",
+    "familyname": "그랜저",
+    "primary_code": "X07",
+    "primaryname": "테스트자동화카X07",
+    "carname_final_code": "0",
+    "carname": "테스트차명514",
+    "vehicleyear": "25",
+    "vehicleversion": "런칭",
+    "modelname": "테스트모델514",
+    "innermodelname": "테스트내부모델514",
+    "config_tree_versions": [
+        "v1",
+        "v2",
+        "v3",
+        "v4",
+        "v5"
+    ],
+    "config_tree_statuses": [
+        "임시 저장",
+        "생성 완료",
+        "사용 중"
+    ],
+    "vehicle_price": "50000000",
+    "model_property_category": "Model_Cate1",
+    "model_property_long_desc": "model_long_desc1",
+    "model_property_short_desc": "model_short_desc1",
+    "model_property_tag_name": "modelTagmodelProp1",
+    "option_property_category": "Option_Cate1",
+    "option_property_long_desc": "option_long_desc1",
+    "option_property_short_desc": "option_short_desc1",
+    "option_property_tag_name": "optionTagmodelProp1",
+    "calendar_for_sale_price": "31",
+    "consumption_tax": "B 개별소비세 배기량 2,000 초과"
+}
